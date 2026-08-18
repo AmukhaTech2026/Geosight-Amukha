@@ -1,0 +1,1 @@
+import{j as r}from"./index-DmJTjokv.js";function t(e){return r.jsxs("svg",{width:18,height:18,viewBox:"0 0 18 18",fill:"none",stroke:"currentColor",strokeWidth:1.5,strokeLinecap:"round",...e,children:[r.jsx("circle",{cx:8,cy:8,r:5}),r.jsx("line",{x1:12,y1:12,x2:17,y2:17})]})}export{t as S};

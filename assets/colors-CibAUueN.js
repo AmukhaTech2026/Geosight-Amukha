@@ -1,0 +1,1 @@
+const e={bg:"#f7f5f0",surface:"#ffffff",border:"#dedad2",text:"#18160f",text2:"#5c5850",text3:"#9c9890",accent:"#b8290a",neg:"#b02318",mono:"'Geist Mono', monospace",serif:"'Lora', serif",sans:"'Lato', sans-serif"};export{e as T};
